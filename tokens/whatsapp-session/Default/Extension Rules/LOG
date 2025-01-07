@@ -1,2 +1,4 @@
-2025/01/07-16:56:50.163 38dc Creating DB D:\web projects\ON GOING\ERP\WHATSAPP-BAIL\tokens\whatsapp-session\Default\Extension Rules since it was missing.
-2025/01/07-16:56:50.542 38dc Reusing MANIFEST D:\web projects\ON GOING\ERP\WHATSAPP-BAIL\tokens\whatsapp-session\Default\Extension Rules/MANIFEST-000001
+2025/01/07-20:30:26.770 1484 Creating DB D:\web projects\ON GOING\ERP\WHATSAPP-BAIL\tokens\whatsapp-session\Default\Extension Rules since it was missing.
+2025/01/07-20:30:27.425 1484 Reusing MANIFEST D:\web projects\ON GOING\ERP\WHATSAPP-BAIL\tokens\whatsapp-session\Default\Extension Rules/MANIFEST-000001
+2025/01/07-20:30:27.426 1484 Recovering log #3
+2025/01/07-20:30:27.426 1484 Reusing old log D:\web projects\ON GOING\ERP\WHATSAPP-BAIL\tokens\whatsapp-session\Default\Extension Rules/000003.log 

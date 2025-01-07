@@ -1,2 +1,4 @@
-2025/01/07-16:56:50.766 4d18 Creating DB D:\web projects\ON GOING\ERP\WHATSAPP-BAIL\tokens\whatsapp-session\Default\Local Storage\leveldb since it was missing.
-2025/01/07-16:56:51.542 4d18 Reusing MANIFEST D:\web projects\ON GOING\ERP\WHATSAPP-BAIL\tokens\whatsapp-session\Default\Local Storage\leveldb/MANIFEST-000001
+2025/01/07-20:30:27.143 3a80 Creating DB D:\web projects\ON GOING\ERP\WHATSAPP-BAIL\tokens\whatsapp-session\Default\Local Storage\leveldb since it was missing.
+2025/01/07-20:30:27.707 3a80 Reusing MANIFEST D:\web projects\ON GOING\ERP\WHATSAPP-BAIL\tokens\whatsapp-session\Default\Local Storage\leveldb/MANIFEST-000001
+2025/01/07-20:30:27.709 3a80 Recovering log #3
+2025/01/07-20:30:27.987 3a80 Reusing old log D:\web projects\ON GOING\ERP\WHATSAPP-BAIL\tokens\whatsapp-session\Default\Local Storage\leveldb/000003.log 
