@@ -27,12 +27,12 @@
         </form>
     </div>
 
-    <img src="https://v0-new-project-rjzpnko9y4j.vercel.app/qr" alt="QR Code" />
+    <img src="http://localhost:3000/qr" alt="QR Code" />
     
     <script>
         // Function to fetch the QR code and display it
         function fetchQRCode() {
-            fetch('https://v0-new-project-rjzpnko9y4j.vercel.app/qr')
+            fetch('http://localhost:3000/qr')
                 .then(response => {
                     if (!response.ok) {
                         throw new Error('QR code not yet ');
@@ -61,7 +61,7 @@
             const phone = document.getElementById('phone').value; // Get phone number from input
             const message = document.getElementById('message').value; // Get message from input
 
-            fetch('https://v0-new-project-rjzpnko9y4j.vercel.app//send-message', {
+            fetch('http://localhost:3000/send-message', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({ phone, message }) // Send data to back-end
