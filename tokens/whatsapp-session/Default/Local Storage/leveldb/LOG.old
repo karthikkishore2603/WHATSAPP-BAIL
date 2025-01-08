@@ -1,6 +1,3 @@
-2025/01/08-18:51:16.822 3664 Reusing MANIFEST D:\web projects\ON GOING\ERP\WHATSAPP-BAIL\tokens\whatsapp-session\Default\Local Storage\leveldb/MANIFEST-000001
-2025/01/08-18:51:16.836 3664 Recovering log #3
-2025/01/08-18:51:16.911 3664 Reusing old log D:\web projects\ON GOING\ERP\WHATSAPP-BAIL\tokens\whatsapp-session\Default\Local Storage\leveldb/000003.log 
-2025/01/08-18:55:31.387 3f24 Level-0 table #5: started
-2025/01/08-18:55:31.428 3f24 Level-0 table #5: 20517 bytes OK
-2025/01/08-18:55:31.469 3f24 Delete type=0 #3
+2025/01/08-19:17:41.222 5a0 Reusing MANIFEST D:\web projects\ON GOING\ERP\WHATSAPP-BAIL\tokens\whatsapp-session\Default\Local Storage\leveldb/MANIFEST-000001
+2025/01/08-19:17:41.226 5a0 Recovering log #4
+2025/01/08-19:17:41.260 5a0 Reusing old log D:\web projects\ON GOING\ERP\WHATSAPP-BAIL\tokens\whatsapp-session\Default\Local Storage\leveldb/000004.log 
