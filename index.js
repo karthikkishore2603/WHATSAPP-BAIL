@@ -46,7 +46,7 @@ venom
 // API route to fetch the QR code
 app.get('/qr', (req, res) => {
   if (!qrCodeBase64) {
-    return res.status(404).send('QR code not yet available');
+    return res.status(404).send('QR  not yet available');
   }
 
   // Remove the data:image/png;base64, prefix and convert the base64 string to binary
